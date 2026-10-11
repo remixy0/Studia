@@ -1,0 +1,24 @@
+Total amount: 17960.170000000002
+total price for peryferie  -> 1438.37
+total price for monitory  -> 4198.0
+total price for podzespoły  -> 4293.0
+total price for laptopy  -> 7098.0
+total price for akcesoria  -> 184.8
+total price for sieci  -> 399.0
+total price for pamięci  -> 349.0
+Total amount: 17960.170000000002
+total price for peryferie  -> 1438.37
+total price for monitory  -> 4198.0
+total price for podzespoły  -> 4293.0
+total price for laptopy  -> 7098.0
+total price for akcesoria  -> 184.8
+total price for sieci  -> 399.0
+total price for pamięci  -> 349.0
+Total amount: 17960.170000000002
+total price for peryferie  -> 1438.37
+total price for monitory  -> 4198.0
+total price for podzespoły  -> 4293.0
+total price for laptopy  -> 7098.0
+total price for akcesoria  -> 184.8
+total price for sieci  -> 399.0
+total price for pamięci  -> 349.0

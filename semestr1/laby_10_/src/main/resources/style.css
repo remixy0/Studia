@@ -1,0 +1,54 @@
+/* Styl dla całego tła (root to główny kontener) */
+.root {
+    -fx-background-color: #f0f4f8; /* Jasnoszary błękit */
+}
+
+/* Styl dla naszej etykiety (zdefiniowaliśmy klasę "duzy-tekst" w Javie) */
+.duzy-tekst {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+/* JavaFX domyślnie dodaje klasę .button do wszystkich przycisków */
+
+
+.button-green {
+    -fx-background-color: green; /* Zielony */
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px; /* Margines wewnętrzny */
+    -fx-background-radius: 5px; /* Zaokrąglone rogi */
+    -fx-cursor: hand; /* Łapka po najechaniu */
+}
+
+.button-red {
+    -fx-background-color: red; /* Czerwony */
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px; /* Margines wewnętrzny */
+    -fx-background-radius: 5px; /* Zaokrąglone rogi */
+    -fx-cursor: hand; /* Łapka po najechaniu */
+}
+
+.button-blue {
+    -fx-background-color: #1E90FF; /* Niebieski */
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-padding: 10px 20px; /* Margines wewnętrzny */
+    -fx-background-radius: 5px; /* Zaokrąglone rogi */
+    -fx-cursor: hand; /* Łapka po najechaniu */
+}
+
+
+
+
+/* Efekt po najechaniu myszką (hover) */
+.button:hover {
+    -fx-background-color: #2980b9; /* Ciemniejszy niebieski */
+}
+
+/* Efekt po kliknięciu (pressed) */
+.button:pressed {
+    -fx-background-color: #1c5980;
+}

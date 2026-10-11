@@ -1,0 +1,4 @@
+2025-11-01 10:15:32 INFO User logged in
+2025-11-01 10:16:01 ERROR Cannot connect to DB
+2025-11-01 10:16:10 WARN Slow response
+2025-11-01 10:17:45 ERROR Timeout while reading
